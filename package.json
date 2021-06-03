@@ -1,6 +1,6 @@
 {
 	"name": "@bsmth/loader-cache",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Internal disk caching utils for @bsmth webpack loaders.",
 	"main": "dist/cjs/index.js",
 	"module": "dist/esm/index.js",
