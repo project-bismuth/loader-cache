@@ -3,3 +3,4 @@ dist/
 .DS_Store
 .tscc_temp
 yarn-error.log
+.husky

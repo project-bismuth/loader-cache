@@ -15,7 +15,8 @@
 		"declaration": "tsc --emitDeclarationOnly",
 		"type-check": "tsc --noEmit",
 		"dev": "rollup -c -w",
-		"lint": "eslint --ext .ts,.tsx,.js src/"
+		"lint": "eslint --ext .ts,.tsx,.js src/",
+		"prepare": "husky install"
 	},
 	"devDependencies": {
 		"@babel/cli": "^7.14.3",
