@@ -22,7 +22,7 @@ npm i --save-dev @bsmth/loader-cache
 
 ## Setup
 
-You need to add the loader and its [cache management plugin](#caching) to your webpack config.
+You need to add the loader and this cache management plugin to your webpack config.
 
 ```typescript
 import { CachePlugin } from "@bsmth/loader-cache";
